@@ -1,7 +1,7 @@
 {
     "name": "boardtalk/test",
     "type": "phpbb-extension",
-    "description": "This is a test of putting item in header",
+    "description": "This is a test of putting item in header/breadcrumb area",
     "homepage": "http://boardtalk.org/beta",
     "version": "0.0.1",
     "time": "2014-09-21",
