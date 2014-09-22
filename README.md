@@ -1,7 +1,7 @@
-phpbbTest
+phpBBTest
 =========
 
-This is a basic test of a Phpbb Extension
+This is a basic test of a phpBB Extension
 
 Adds a second FAQ link in header/breadcrumbs area
 
